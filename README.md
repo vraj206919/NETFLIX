@@ -2,7 +2,7 @@
 
 <img width="1920" height="3344" alt="image" src="https://github.com/user-attachments/assets/89157c57-141c-4a71-8fdf-1cd1d7fa4909" />
 
-Live demo : - https://clonebyvraj.netlify.app/
+Live demo : - [https://clonebyvraj.netlify.app/](https://clonebyvraj1.netlify.app/)
 
 📺 Netflix Landing Page Clone
 
